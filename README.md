@@ -1,4 +1,4 @@
-# front-end-plugins
+# Front-end Plugins
 My favorite plugins for front-end development.
 
 * Form
@@ -17,7 +17,7 @@ My favorite plugins for front-end development.
 * User Interface
 	* [Tabs](http://vdw.github.io/Tabslet/)
 	* [Placeload](https://github.com/victorvoid/placeload.js)
-	* [Carousel](http://kenwheeler.github.io/slick/)
+	* [Slider/Carousel](http://kenwheeler.github.io/slick/)
 	* [Lightbox/Gallery](https://github.com/sachinchoolur/lightGallery)
 	* [Modal](https://github.com/dolce/iziModal)
 	* [Autocomplete](http://twitter.github.io/typeahead.js/examples/)
@@ -28,35 +28,28 @@ My favorite plugins for front-end development.
 	* [Filter](https://github.com/Vestride/Shuffle)
 	* [Menu Spy](https://leocs.me/menuspy/)
 	* [Keyword Highlighter](https://github.com/julmot/mark.js/)
-	* [Smooth State](https://github.com/miguel-perez/smoothState.js)
-	* [Content Tools](https://github.com/getmeuk/ContentTools)
 	* [Secret Navigation](https://github.com/jachinte/jquery.secretnav)
-	* [Copy to Clipboard](https://github.com/zenorocha/clipboard.js/)
-	* [TypeIt](https://github.com/alexmacarthur/typeit) or [iTyped](https://github.com/luisvinicius167/ityped)
-	* [Anchor Scrolling](https://github.com/virgiliud/jquery.anchorScroll)
+	* [Smooth State](https://github.com/miguel-perez/smoothState.js)
 	* [Table Sorter](https://github.com/christianbach/tablesorter), [Data Table](https://www.datatables.net/) and [Responsive Table Method](https://codepen.io/aurer/pen/HKtbe)
 	* [AdBlock Identifier](https://github.com/balajmarius/Adi.js)
 	* [Page Loader](https://github.com/HubSpot/pace/)
 	* [Chart](https://github.com/gionkunz/chartist-js) or [Highchart](http://www.highcharts.com/)
-	* [WYSIWYG](https://github.com/Alex-D/Trumbowyg)
 	* [Pretty Embed](https://github.com/mike-zarandona/prettyembed.js)
 	* [Scrolling Progress](http://www.webdesigncrowd.com/scrolling-progress-bar/)
 	* [Sticker](https://github.com/cmiscm/stickerjs)
 	* [Credit Card](https://github.com/jessepollak/card)
 	* [Push Menu](https://github.com/adgsm/multi-level-push-menu)
-	* [Jump To](https://github.com/peachananr/jumpto)
 	* [Dropdown](https://github.com/claviska/jquery-dropdown)
-* Maps
-	* [What's Nearby](https://github.com/LaGrangeMtl/WhatsNearby)
-	* [Map Place](https://github.com/danielemoraschi/maplace.js/)
-* Git/Terminal
-	* [Node GH](https://github.com/node-gh/gh)
-	* [Commitment](http://michael-lynch.github.io/commitment/)	
-	* [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)
-* Animation
-	* [Animate CSS](https://github.com/daneden/animate.css)
-	* [Scroll Animation](https://github.com/michalsnik/aos)
-	* [Page Transition](https://github.com/blivesta/animsition/)
+	* [WYSIWYG](https://github.com/Alex-D/Trumbowyg)
+	* [Jump To](https://github.com/peachananr/jumpto)
+	* [Copy to Clipboard](https://github.com/zenorocha/clipboard.js/)
+	* [Content Tools](https://github.com/getmeuk/ContentTools)
+	* [TypeIt](https://github.com/alexmacarthur/typeit) or [iTyped](https://github.com/luisvinicius167/ityped)
+	* [Anchor Scrolling](https://github.com/virgiliud/jquery.anchorScroll)
+* CSS
+	* [Arrow](http://www.cssarrowplease.com/)
+	* [Gradient](http://www.colorzilla.com/gradient-editor/)
+	* [Box Shadow](http://www.cssmatic.com/box-shadow)
 * Images
 	* [Loader](https://github.com/desandro/imagesloaded)
 	* [Zoom](http://emersonthompson.com.br/zoomove/)
@@ -64,10 +57,17 @@ My favorite plugins for front-end development.
 	* [Compressor](https://kraken.io/)
 	* [Emoji](https://github.com/Ranks/emojione)
 	* [Adaptive Background](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js)
-* CSS
-	* [Arrow](http://www.cssarrowplease.com/)
-	* [Gradient](http://www.colorzilla.com/gradient-editor/)
-	* [Box Shadow](http://www.cssmatic.com/box-shadow)
+* Animation
+	* [Animate CSS](https://github.com/daneden/animate.css)
+	* [Scroll Animation](https://github.com/michalsnik/aos)
+	* [Page Transition](https://github.com/blivesta/animsition/)
+* Maps
+	* [What's Nearby](https://github.com/LaGrangeMtl/WhatsNearby)
+	* [Map Place](https://github.com/danielemoraschi/maplace.js/)
+* Git/Terminal
+	* [Node GH](https://github.com/node-gh/gh)
+	* [Commitment](http://michael-lynch.github.io/commitment/)	
+	* [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)
 * Data
 	* [World Contry](https://github.com/samayo/country-json)
 	* [Brazilian States](https://gist.github.com/leocavalcante/d008fff194dcaf909b3c#file-abbr-abbr-html)
