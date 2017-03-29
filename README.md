@@ -76,9 +76,9 @@ My favorite plugins for front-end development.
     * [Screenshot](https://github.com/sindresorhus/pageres)
     
 
-# Test
+# Table of Plugins
 
 Name  | Type  | Size | Library
-------------- | ------------- | ------------- | -------------
-[Parsley](https://github.com/guillaumepotier/Parsley.js/)  | Validation | 11 KB | ✔
-[Cleave](http://nosir.github.io/cleave.js/) | Mask | 11 KB | -
+:------------- | :-------------: | :-------------: | -------------:
+[Parsley](https://github.com/guillaumepotier/Parsley.js/)  | Validation | 11 KB | Yes
+[Cleave](http://nosir.github.io/cleave.js/) | Mask | 11 KB | No
