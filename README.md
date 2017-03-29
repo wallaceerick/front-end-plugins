@@ -4,8 +4,7 @@ My favorite plugins for front-end development.
 * Form
 	* [Validation](https://github.com/guillaumepotier/Parsley.js/)
 	* [Input Mask](http://nosir.github.io/cleave.js/)
-	* [Select](https://select2.github.io/), [Selectric](https://github.com/lcdsantos/jQuery-Selectric/) or [Custom Select](http://adam.co/lab/jquery/customselect/)
-	* [Choices](https://joshuajohnson.co.uk/Choices/)
+	* [Select](https://select2.github.io/), [Selectric](https://github.com/lcdsantos/jQuery-Selectric/), [Choices](https://joshuajohnson.co.uk/Choices/) or [Custom Select](http://adam.co/lab/jquery/customselect/)
 	* [Checkbox and Radio Button](https://github.com/fronteed/icheck/tree/2.x)
 	* [Placeholder](https://github.com/chinchang/superplaceholder.js)
 	* [File Upload](http://codepen.io/rstacruz/pen/YNMKOq) or [Dropify](http://jeremyfagis.github.io/dropify/)
